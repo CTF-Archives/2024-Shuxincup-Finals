@@ -1,7 +1,10 @@
 # 2024-shuxincup
+
 第二届数据安全大赛（数信杯2024）全国总决赛
 
-本次比赛分为 2 天，共 3 个部分
+欢迎通过 [CTF-Archives售后快速服务群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=KFamhBpmURTZpndhc0MI7_1l3a6Xezrf&authKey=Yenwm7%2B%2F%2FT%2BtSXCSyr%2B7fYS47Ot0MwFqesH4HOLT8ZADE2e9XO6AS96HQvjxh%2B%2BG&noverify=0&group_code=894957229) 对比赛的相关内容进行讨论
+
+本次比赛分为 2 天，共 3 个部分，强行业相关型比赛
 
 - 数据安全综合场景赛
 - 数据安全技能赛
